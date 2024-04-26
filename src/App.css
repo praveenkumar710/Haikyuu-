@@ -1,0 +1,42 @@
+
+body{
+  background-color: orange;
+}
+h1{
+  color: red;
+  text-align: center;
+}
+button{
+  padding: 20px;
+  margin-left: 44vw;
+  border-radius: 90px;
+  box-shadow:1px 5px 2px  black ;
+  
+}
+.card{
+  background-color: black;
+  color: orange;
+  margin: 10px;
+  border: 1px solid;
+  width: 50%;
+  border-radius: 30px;
+  
+}
+p{
+  font-weight: 600;
+  margin-left: 20px;
+  
+}
+h3{
+  font-weight: 600;
+  
+  margin-left: 20px;
+}
+h2{
+  text-decoration: underline;
+}
+img{
+  margin-left: 20px;
+  height: 300px;
+}
+
